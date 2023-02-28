@@ -59,9 +59,8 @@ export default function Formulario({ setMonedas }) {
       });
       setCriptos(arrayCriptomonedas);
     };
-    return () => {
-      consultarAPI();
-    };
+
+    consultarAPI();
   }, []);
 
   return (
