@@ -19,6 +19,7 @@ const Contenedor = styled.div`
 const Imagen = styled.img`
   max-width: 400px;
   width: 80%;
+  height: auto;
   margin: 100px auto 0 auto;
   display: block;
 `;
