@@ -14,6 +14,6 @@ Cotizador Ciptos en React
 <p><strong>react-dom:</strong> 18.2.0</p>
 <p><strong>Emotion Styled:</strong> 11.10.6</p>
 
-<h2>Este proyecto consume la API de CriptoCompare, validación, state, e incluye styled components y custom hooks.</h2>
+<h2>Este proyecto consume la API de CryptoCompare, validación, state, e incluye styled components y custom hooks.</h2>
 
 
